@@ -1,0 +1,2 @@
+## command line
+(Get-Content -path "$items" -Encoding UTF8) | Set-Content -Encoding UTF8 -Path "$items"
